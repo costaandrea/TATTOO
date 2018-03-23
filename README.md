@@ -1,6 +1,6 @@
 # TATTOO
                                                   
-# =====  connecTivity grAph Theory TOOlbox vs_0.1   =====
+=====  connecTivity grAph Theory TOOlbox vs_0.1   =====
 
 Author: Andrea Costa  
 https://www.researchgate.net/profile/Andrea_Costa10
